@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leoneix
-- 👀 I’m interested in computer science and aeronautics.
+- 👀 I’m interested in computer science and geoinformatics.
 - 🌱 I’m currently learning Python and C. I have just completed my high school.
-- 💞️ I’m looking to collaborate on beginner level programming for now
+- 💞️ I’m looking to collaborate on beginner level programming for now.
 - 📫 If you want to contact me, mail me at leoneix@proton.me
 - 😄 Pronouns: He/him
 
