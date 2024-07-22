@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner level programming for now.
 - 📫 If you want to contact me, mail me at leoneix@proton.me
 - 😄 Pronouns: He/him
+[![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leoneix)](https://github.com/Leoneix/github-readme-stats)
 
 <!---
 Leoneix/Leoneix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
