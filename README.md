@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/him
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="parthapratimbasak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/parthapratimbasak?trk=profile-badge">Partha Pratim Basak</a></div>
+<html><body><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="parthapratimbasak" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/parthapratimbasak?trk=profile-badge">Partha Pratim Basak</a></div></body></html>
               
 
 <!---
