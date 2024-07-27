@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leoneix
-- 👀 I’m interested in Computer Science amd am still figuring out my niche.
+- 👀 I’m interested in Computer Science and am still figuring out my niche.
 - 🌱 I’m currently learning Python and C along with web development.
 - 📫 If you want to contact me, mail me at leoneix@proton.me
 - 😄 Pronouns: He/him
