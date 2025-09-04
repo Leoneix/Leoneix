@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hey! I am Leoneix from India.<br>🌱 I’m currently learning web development.<br>
+🔭 Hey! I am Leoneix from India.<br><br>
 
 
 ## 🌐 Socials:
